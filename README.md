@@ -19,5 +19,4 @@ https://github.com/Octoberfest7/Inline-Execute-PE
 2. pycryptodome
 3. pycryptodomex
 
-test
 
